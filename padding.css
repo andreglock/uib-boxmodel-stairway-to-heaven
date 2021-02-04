@@ -10,29 +10,53 @@ div.wrapper {
 
 div.one {
     padding: 1.5%;
-    background-color: #ff0006;
+    background-color: #ff3249;
     width: 25%;
     height: 25%;
 }
 
-div.two {
+div.twoholder {
+    padding: 1.5%;
     background-color: #ff0006;
+    width: 25%;
+    height: 25%;
+    float: left;
+}
+
+div.two {
+    background-color: #ff3249;
     width: 50%;
     height: 25%;
     padding: 1.5%;
     padding-left: 26.5%;
 }
 
-div.three {
+div.threeholder {
+    padding: 1.5%;
     background-color: #ff0006;
+    width: 50%;
+    height: 25%;
+    float: left;
+}
+
+div.three {
+    background-color: #ff3249;
     width: 75%;
     height: 25%;
     padding: 1.5%;
     padding-left: 51.5%;
 }
 
-div.four {
+div.fourholder {
+    padding: 1.5%;
     background-color: #ff0006;
+    width: 75%;
+    height: 25%;
+    float: left;
+}
+
+div.four {
+    background-color: #ff3249;
     width: 100%;
     height: 25%;
     padding: 1.5%;
