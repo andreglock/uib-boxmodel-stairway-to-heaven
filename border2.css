@@ -21,19 +21,19 @@ div.two {
     width: 50%;
     background-color: #f3ff00;
     border: solid 0.5em #ff3249;
-    border-left: solid 12.5em #ff3249;
+    border-left: solid 12.5em #ff0006;
 }
 
 div.three {
     width: 75%;
     background-color: #f3ff00;
     border: solid 0.5em #ff3249;
-    border-left: solid 25em #ff3249;
+    border-left: solid 25em #ff0006;
 }
 
 div.four {    
     width: 100%;
     background-color: #f3ff00;
     border: solid 0.5em #ff3249;
-    border-left: solid 37.5em #ff3249;
+    border-left: solid 37.5em #ff0006;
 }
