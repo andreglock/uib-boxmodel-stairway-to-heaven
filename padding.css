@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+}
+
+div.wrapper {
+    background-color: white;
+    width: 50em;
+    height: 50em;
+}
+
+div.one {
+    padding: 1.5%;
+    background-color: #ff0006;
+    width: 25%;
+    height: 25%;
+}
+
+div.two {
+    background-color: #ff0006;
+    width: 50%;
+    height: 25%;
+    padding: 1.5%;
+    padding-left: 26.5%;
+}
+
+div.three {
+    background-color: #ff0006;
+    width: 75%;
+    height: 25%;
+    padding: 1.5%;
+    padding-left: 51.5%;
+}
+
+div.four {
+    background-color: #ff0006;
+    width: 100%;
+    height: 25%;
+    padding: 1.5%;
+    padding-left: 76.5%;
+}
+
+div.in {
+    background-color: #f3ff00;
+    height: 100%;
+    width: 100%;
+}

@@ -1,0 +1,51 @@
+* {
+    box-sizing: border-box;
+}
+
+div.wrapper {
+    background-color: hotpink;
+    width: 50em;
+    height: 50em;
+    display: inline-block;
+}
+
+div.inside {
+    background-color: white;
+    margin: 2%;
+    width: 96%;
+    height: 96%;
+}
+
+div.inside>div {
+    width: 25%;
+    height: 25%;
+}
+
+div.one {
+    margin-left: 75%;
+    background-color: #00ff00;
+}
+
+div.two {
+    margin-left: 50%;
+    background-color: #696969;
+    display: inline-block;
+}
+
+div.three {
+    margin-left: 25%;
+    background-color: #00ff00;
+}
+
+div.four {
+    background-color: #696969;
+    height: 24.5% !important;
+    display: inline-block;
+}
+
+div.in {
+    background-color: #00ff00;
+    height: 90%;
+    width: 90%;
+    margin: 5%;
+}
