@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Staircase-1.html */
+
+.container {
+    width: 410px;
+    height: 410px;
+    border: 5px solid #ff69b4;
+}
+
+.box1 {
+    width: 100px;
+    height: 100px;
+    margin-left: 300px;
+    background-color:  #03fa03;
+}
+
+.box2 {
+    width: 100px;
+    height: 100px;
+    margin-left: 200px;
+    background-color: #03fa03;
+    border: 5px solid #484d52;
+}
+
+.box3 {
+    width: 100px;
+    height: 100px;
+    margin-left: 100px;
+    background-color: #03fa03;
+}
+
+.box4 {
+    width: 100px;
+    height: 100px;
+    background-color: #03fa03;
+    border: 5px solid #484d52;
+}
+
+/* Staircase-2.html */
+
+.container2 {
+    width: 400px;
+    height: 400px;
+    background-color: #ffffff;
+}
+
+.box1-2 {
+    width: 100px;
+    height: 100px;
+    background-color:  #ffff00;
+    border: 5px solid #ff5e00;
+}
+
+.box2-2-container {
+    width: 100px;
+    height: 100px;
+    background-color: #ff0000;
+}
+
+.box2-2 {
+    width: 100px;
+    height: 100px;
+    margin-left: 100px;
+    background-color: #ffff00;
+    border: 5px solid #ff5e00;
+}
+
+.box3-2-container {
+    width: 200px;
+    height: 100px;
+    background-color: #ff0000;
+}
+
+.box3-2 {
+    width: 100px;
+    height: 100px;
+    margin-left: 200px;
+    background-color: #ffff00;
+    border: 5px solid #ff5e00;
+}
+
+.box4-2-container {
+    width: 300px;
+    height: 100px;
+    background-color: #ff0000;
+}
+
+.box4-2 {
+    width: 100px;
+    height: 100px;
+    margin-left: 300px;
+    background-color: #ffff00;
+    border: 5px solid #ff5e00;
+}
