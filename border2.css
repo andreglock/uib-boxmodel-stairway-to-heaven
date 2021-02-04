@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+}
+
+.wrapper {
+    width: 50em;
+    height: 50em;
+}
+
+.wrapper>div {
+    height: 25%;
+}
+
+div.one {
+    width: 25%;
+    background-color: #f3ff00;
+    border: solid 0.5em #ff3249;
+}
+
+div.two {
+    width: 50%;
+    background-color: #f3ff00;
+    border: solid 0.5em #ff3249;
+    border-left: solid 12.5em #ff3249;
+}
+
+div.three {
+    width: 75%;
+    background-color: #f3ff00;
+    border: solid 0.5em #ff3249;
+    border-left: solid 25em #ff3249;
+}
+
+div.four {    
+    width: 100%;
+    background-color: #f3ff00;
+    border: solid 0.5em #ff3249;
+    border-left: solid 37.5em #ff3249;
+}
